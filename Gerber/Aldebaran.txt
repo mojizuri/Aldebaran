@@ -1,0 +1,10 @@
+Aldebaran.cmp	Component side data
+Aldebaran.drd	Excellon drill description
+Aldebaran.dri	Excellon drill tool description
+Aldebaran.out	Outline data
+Aldebaran.plc	Component side silk screen data
+Aldebaran.sol	Solder side data
+Aldebaran.stc	Component side solder stop mask data
+Aldebaran.sts	Solder side solder stop mask data
+Aldebaran.gpi	Photoplotter Info File
+Aldebaran.txt	this file
